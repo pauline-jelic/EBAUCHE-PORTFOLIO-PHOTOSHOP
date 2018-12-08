@@ -9,5 +9,6 @@ Insérer des formes (rectangle carré)
 Les Masques d'écrétage 
 Aggrandir les polices 
 Changer les couleurs 
+Se Familiariser avec l'espace de travail du logiciel
 
 L'objectif dans ce portfolio était de faire du mobile first puis de l'adapter en version Desktop
